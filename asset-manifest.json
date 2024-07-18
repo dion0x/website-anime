@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dion0x.github.io/website-anime/static/css/main.877fe820.css",
+    "main.js": "/dion0x.github.io/website-anime/static/js/main.415da2ac.js",
+    "static/js/453.69f3745b.chunk.js": "/dion0x.github.io/website-anime/static/js/453.69f3745b.chunk.js",
+    "index.html": "/dion0x.github.io/website-anime/index.html",
+    "main.877fe820.css.map": "/dion0x.github.io/website-anime/static/css/main.877fe820.css.map",
+    "main.415da2ac.js.map": "/dion0x.github.io/website-anime/static/js/main.415da2ac.js.map",
+    "453.69f3745b.chunk.js.map": "/dion0x.github.io/website-anime/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.877fe820.css",
+    "static/js/main.415da2ac.js"
+  ]
+}
